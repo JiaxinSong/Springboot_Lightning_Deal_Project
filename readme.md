@@ -25,7 +25,7 @@ The project is completed by applying domain-driven hierarchical model design: us
 ### Project Function
 
 * Create item
-![image](https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/createitem.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+<div align=center><img width="150" height="150" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/createitem.png"/></div>
 * Register (Backend will generate a one time password by random)
 
 * Login
