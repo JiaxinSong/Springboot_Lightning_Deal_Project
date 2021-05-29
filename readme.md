@@ -27,13 +27,14 @@ The project is completed by applying domain-driven hierarchical model design: us
 * Create item
 <div align=center><img width="300" height="400" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/createitem.png"/></div>
 * Register (Backend will generate a one time password by random)
-
+<div align=center><img width="300" height="400" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/register.png"/></div>
 * Login
-
+<div align=center><img width="300" height="400" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/login.png"/></div>
 * View item list
-
+<div align=center><img width="600" height="200" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/listitem.png"/></div>
 * Buy item (If during lightning deal, the item price will change.)
-
+<div align=center><img width="300" height="400" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/getitem.png"/></div>
+<div align=center><img width="300" height="400" src="https://github.com/JiaxinSong/Springboot_Lightning_Deal_Project/blob/main/img/lightningdeal.png"/></div>
 
 ### Project Structure
  **Design models first. Then design database tables according to models. Use mybatis-generator.xml to generator DO(data object), DOMapper and DOMapper. xml. Then design services and controllers.**
